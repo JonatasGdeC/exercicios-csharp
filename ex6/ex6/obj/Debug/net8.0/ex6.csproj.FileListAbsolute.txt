@@ -1,0 +1,14 @@
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.AssemblyInfoInputs.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.AssemblyInfo.cs
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.csproj.CoreCompileInputs.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\bin\Debug\net8.0\ex6.exe
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\bin\Debug\net8.0\ex6.deps.json
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\bin\Debug\net8.0\ex6.runtimeconfig.json
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\bin\Debug\net8.0\ex6.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\bin\Debug\net8.0\ex6.pdb
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\refint\ex6.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.pdb
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ex6.genruntimeconfig.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex6\ex6\obj\Debug\net8.0\ref\ex6.dll
