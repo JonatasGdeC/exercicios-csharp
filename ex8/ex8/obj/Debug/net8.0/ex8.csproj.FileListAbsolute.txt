@@ -1,0 +1,14 @@
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\bin\Debug\net8.0\ex8.exe
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\bin\Debug\net8.0\ex8.deps.json
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\bin\Debug\net8.0\ex8.runtimeconfig.json
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\bin\Debug\net8.0\ex8.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\bin\Debug\net8.0\ex8.pdb
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.AssemblyInfoInputs.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.AssemblyInfo.cs
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.csproj.CoreCompileInputs.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\refint\ex8.dll
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.pdb
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ex8.genruntimeconfig.cache
+G:\Bitcube\Cursos\C# Basics\Exercicios\ex8\ex8\obj\Debug\net8.0\ref\ex8.dll
